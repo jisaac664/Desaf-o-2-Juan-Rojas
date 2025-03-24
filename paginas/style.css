@@ -1,0 +1,19 @@
+nav a {
+    text-decoration: none;
+    color:blueviolet
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color:gray;
+}
+nav li{
+    display: inline;
+    padding: 60px;
+    font-size: 25px;
+}
+body{
+    background-color:dodgerblue;
+    font-size: 17px;
+}
