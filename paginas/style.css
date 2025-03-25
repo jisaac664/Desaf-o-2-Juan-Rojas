@@ -1,19 +1,22 @@
-nav a {
-    text-decoration: none;
-    color:blueviolet
-}
 
-footer{
-    text-align: center;
-    padding: 20px;
-    background-color:gray;
-}
 nav li{
     display: inline;
     padding: 60px;
     font-size: 25px;
 }
 body{
-    background-color:dodgerblue;
+    background-color:rgb(40, 142, 245);
     font-size: 17px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color:#bbb8b8;
+}
+header{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color:rgb(82, 22, 138);
 }
